@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ecommercewebsite/static/css/main.502436f5.chunk.css",
+    "main.js": "/ecommercewebsite/static/js/main.d2777bb4.chunk.js",
+    "main.js.map": "/ecommercewebsite/static/js/main.d2777bb4.chunk.js.map",
+    "runtime-main.js": "/ecommercewebsite/static/js/runtime-main.ee9e73fc.js",
+    "runtime-main.js.map": "/ecommercewebsite/static/js/runtime-main.ee9e73fc.js.map",
+    "static/css/2.97503911.chunk.css": "/ecommercewebsite/static/css/2.97503911.chunk.css",
+    "static/js/2.fa171251.chunk.js": "/ecommercewebsite/static/js/2.fa171251.chunk.js",
+    "static/js/2.fa171251.chunk.js.map": "/ecommercewebsite/static/js/2.fa171251.chunk.js.map",
+    "index.html": "/ecommercewebsite/index.html",
+    "static/css/2.97503911.chunk.css.map": "/ecommercewebsite/static/css/2.97503911.chunk.css.map",
+    "static/css/main.502436f5.chunk.css.map": "/ecommercewebsite/static/css/main.502436f5.chunk.css.map",
+    "static/js/2.fa171251.chunk.js.LICENSE.txt": "/ecommercewebsite/static/js/2.fa171251.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ecommercewebsite/static/media/MainImage.b231f005.jpg",
+    "static/media/Mobile.5a4aecc3.jpg": "/ecommercewebsite/static/media/Mobile.5a4aecc3.jpg",
+    "static/media/book.55bd847c.jpg": "/ecommercewebsite/static/media/book.55bd847c.jpg",
+    "static/media/chair.22d41845.jpg": "/ecommercewebsite/static/media/chair.22d41845.jpg",
+    "static/media/fan.0d2c3348.jpg": "/ecommercewebsite/static/media/fan.0d2c3348.jpg",
+    "static/media/laptop.164b273d.jpg": "/ecommercewebsite/static/media/laptop.164b273d.jpg",
+    "static/media/shoe.0defb633.jpg": "/ecommercewebsite/static/media/shoe.0defb633.jpg",
+    "static/media/vessel.46898252.jpg": "/ecommercewebsite/static/media/vessel.46898252.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee9e73fc.js",
+    "static/css/2.97503911.chunk.css",
+    "static/js/2.fa171251.chunk.js",
+    "static/css/main.502436f5.chunk.css",
+    "static/js/main.d2777bb4.chunk.js"
+  ]
+}
